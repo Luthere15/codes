@@ -57,13 +57,14 @@
   <card type="merchant" value="2" color="none" sprite="merch2_"/>
   <card type="merchant" value="2" color="none" sprite="merch2_"/>
   <card type="merchant" value="2" color="none" sprite="merch2_"/>
+  <card type="merchant" value="2" color="none" sprite="merch2_"/>
   
   <card type="merchant" value="3" color="none" sprite="merch3_"/>
   <card type="merchant" value="3" color="none" sprite="merch3_"/>
   <card type="merchant" value="3" color="none" sprite="merch3_"/>
   <card type="merchant" value="3" color="none" sprite="merch3_"/>
   <card type="merchant" value="3" color="none" sprite="merch3_"/>
-  <card type="merchant" value="3" color="none" sprite="merch3_"/>
+ 
   
   <card type="merchant" value="4" color="none" sprite="merch4_"/>
   <card type="merchant" value="4" color="none" sprite="merch4_"/>
